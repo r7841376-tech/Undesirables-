@@ -1,6 +1,26 @@
 {
   "episodes": [
     {
+      "id": "smv16aagm4731",
+      "title": "Mud Season",
+      "kind": "studio",
+      "ts": 1791562886518,
+      "panels": [
+        "shows/smv16aagm4731/panel-1.png",
+        "shows/smv16aagm4731/panel-2.png",
+        "shows/smv16aagm4731/panel-3.png",
+        "shows/smv16aagm4731/panel-4.png",
+        "shows/smv16aagm4731/panel-5.png",
+        "shows/smv16aagm4731/panel-6.png",
+        "shows/smv16aagm4731/panel-7.png",
+        "shows/smv16aagm4731/panel-8.png",
+        "shows/smv16aagm4731/panel-9.png",
+        "shows/smv16aagm4731/panel-10.png",
+        "shows/smv16aagm4731/panel-11.png"
+      ],
+      "video": "shows/smv16aagm4731/video.webm"
+    },
+    {
       "id": "smv3dwh958799",
       "title": "Royal Rumble of the Receipts",
       "kind": "studio",
@@ -69,25 +89,6 @@
         "shows/smv0agk2f7019/panel-5.png",
         "shows/smv0agk2f7019/panel-6.png",
         "shows/smv0agk2f7019/panel-7.png"
-      ]
-    },
-    {
-      "id": "smv16aagm4731",
-      "title": "Mud Season",
-      "kind": "studio",
-      "ts": 1791562886518,
-      "panels": [
-        "shows/smv16aagm4731/panel-1.png",
-        "shows/smv16aagm4731/panel-2.png",
-        "shows/smv16aagm4731/panel-3.png",
-        "shows/smv16aagm4731/panel-4.png",
-        "shows/smv16aagm4731/panel-5.png",
-        "shows/smv16aagm4731/panel-6.png",
-        "shows/smv16aagm4731/panel-7.png",
-        "shows/smv16aagm4731/panel-8.png",
-        "shows/smv16aagm4731/panel-9.png",
-        "shows/smv16aagm4731/panel-10.png",
-        "shows/smv16aagm4731/panel-11.png"
       ]
     },
     {
@@ -204,5 +205,5 @@
       ]
     }
   ],
-  "updated": 1791743770216
+  "updated": 1791743926899
 }
