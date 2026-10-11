@@ -1,6 +1,33 @@
 {
   "episodes": [
     {
+      "id": "smv42k9s33369",
+      "title": "Break Room Costume Party",
+      "kind": "studio",
+      "ts": 1791738032260,
+      "panels": [
+        "shows/smv42k9s33369/panel-1.png",
+        "shows/smv42k9s33369/panel-2.png",
+        "shows/smv42k9s33369/panel-3.png",
+        "shows/smv42k9s33369/panel-4.png",
+        "shows/smv42k9s33369/panel-5.png",
+        "shows/smv42k9s33369/panel-6.png",
+        "shows/smv42k9s33369/panel-7.png",
+        "shows/smv42k9s33369/panel-8.png",
+        "shows/smv42k9s33369/panel-9.png",
+        "shows/smv42k9s33369/panel-10.png",
+        "shows/smv42k9s33369/panel-11.png",
+        "shows/smv42k9s33369/panel-12.png",
+        "shows/smv42k9s33369/panel-13.png",
+        "shows/smv42k9s33369/panel-14.png",
+        "shows/smv42k9s33369/panel-15.png",
+        "shows/smv42k9s33369/panel-16.png",
+        "shows/smv42k9s33369/panel-17.png",
+        "shows/smv42k9s33369/panel-18.png",
+        "shows/smv42k9s33369/panel-19.png"
+      ]
+    },
+    {
       "id": "smv240pl61988",
       "title": "The Cage",
       "kind": "studio",
@@ -133,5 +160,5 @@
       ]
     }
   ],
-  "updated": 1791737839309
+  "updated": 1791738146273
 }
