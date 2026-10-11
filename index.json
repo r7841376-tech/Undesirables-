@@ -1,6 +1,22 @@
 {
   "episodes": [
     {
+      "id": "smv0mbssu2124",
+      "title": "Andy Ludwig, Jessica, Roger Upmyown — Living room (1)",
+      "kind": "studio",
+      "ts": 1791529364622,
+      "panels": [
+        "shows/smv0mbssu2124/panel-1.png",
+        "shows/smv0mbssu2124/panel-2.png",
+        "shows/smv0mbssu2124/panel-3.png",
+        "shows/smv0mbssu2124/panel-4.png",
+        "shows/smv0mbssu2124/panel-5.png",
+        "shows/smv0mbssu2124/panel-6.png",
+        "shows/smv0mbssu2124/panel-7.png",
+        "shows/smv0mbssu2124/panel-8.png"
+      ]
+    },
+    {
       "id": "smv0m1nvw3107",
       "title": "Andy Ludwig, Jessica, Roger Upmyown — Living room (1)",
       "kind": "studio",
@@ -81,5 +97,5 @@
       ]
     }
   ],
-  "updated": 1791737509004
+  "updated": 1791737574334
 }
