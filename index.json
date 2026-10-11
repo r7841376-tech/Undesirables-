@@ -1,6 +1,23 @@
 {
   "episodes": [
     {
+      "id": "smv27wobh3309",
+      "title": "Two Options",
+      "kind": "studio",
+      "ts": 1791626076701,
+      "panels": [
+        "shows/smv27wobh3309/panel-1.png",
+        "shows/smv27wobh3309/panel-2.png",
+        "shows/smv27wobh3309/panel-3.png",
+        "shows/smv27wobh3309/panel-4.png",
+        "shows/smv27wobh3309/panel-5.png",
+        "shows/smv27wobh3309/panel-6.png",
+        "shows/smv27wobh3309/panel-7.png",
+        "shows/smv27wobh3309/panel-8.png"
+      ],
+      "video": "shows/smv27wobh3309/video.webm"
+    },
+    {
       "id": "smv27fwrv9876",
       "title": "Check, Please (Hold the Wallet)",
       "kind": "studio",
@@ -244,5 +261,5 @@
       ]
     }
   ],
-  "updated": 1791747166741
+  "updated": 1791747352102
 }
