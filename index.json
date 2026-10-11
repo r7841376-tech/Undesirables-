@@ -1,6 +1,35 @@
 {
   "episodes": [
     {
+      "id": "smuyra22w372",
+      "title": "Gamora, Shuri, Black Panther… — Living room (1)",
+      "kind": "studio",
+      "ts": 1791416749064,
+      "panels": [
+        "shows/smuyra22w372/panel-1.png",
+        "shows/smuyra22w372/panel-2.png",
+        "shows/smuyra22w372/panel-3.png",
+        "shows/smuyra22w372/panel-4.png",
+        "shows/smuyra22w372/panel-5.png",
+        "shows/smuyra22w372/panel-6.png",
+        "shows/smuyra22w372/panel-7.png",
+        "shows/smuyra22w372/panel-8.png",
+        "shows/smuyra22w372/panel-9.png",
+        "shows/smuyra22w372/panel-10.png",
+        "shows/smuyra22w372/panel-11.png",
+        "shows/smuyra22w372/panel-12.png",
+        "shows/smuyra22w372/panel-13.png",
+        "shows/smuyra22w372/panel-14.png",
+        "shows/smuyra22w372/panel-15.png",
+        "shows/smuyra22w372/panel-16.png",
+        "shows/smuyra22w372/panel-17.png",
+        "shows/smuyra22w372/panel-18.png",
+        "shows/smuyra22w372/panel-19.png",
+        "shows/smuyra22w372/panel-20.png"
+      ],
+      "video": "shows/smuyra22w372/video.webm"
+    },
+    {
       "id": "smv488b771239",
       "title": "Swipe Right",
       "kind": "studio",
@@ -281,5 +310,5 @@
       ]
     }
   ],
-  "updated": 1791747683898
+  "updated": 1791748319839
 }
