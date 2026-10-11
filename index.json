@@ -1,6 +1,39 @@
 {
   "episodes": [
     {
+      "id": "smuwth5ou7876",
+      "title": "Krillin, Black Widow, Carl — Living room (1)",
+      "kind": "studio",
+      "ts": 1791299507214,
+      "panels": [
+        "shows/smuwth5ou7876/panel-1.png",
+        "shows/smuwth5ou7876/panel-2.png",
+        "shows/smuwth5ou7876/panel-3.png",
+        "shows/smuwth5ou7876/panel-4.png",
+        "shows/smuwth5ou7876/panel-5.png",
+        "shows/smuwth5ou7876/panel-6.png",
+        "shows/smuwth5ou7876/panel-7.png",
+        "shows/smuwth5ou7876/panel-8.png",
+        "shows/smuwth5ou7876/panel-9.png",
+        "shows/smuwth5ou7876/panel-10.png",
+        "shows/smuwth5ou7876/panel-11.png",
+        "shows/smuwth5ou7876/panel-12.png",
+        "shows/smuwth5ou7876/panel-13.png",
+        "shows/smuwth5ou7876/panel-14.png",
+        "shows/smuwth5ou7876/panel-15.png",
+        "shows/smuwth5ou7876/panel-16.png",
+        "shows/smuwth5ou7876/panel-17.png",
+        "shows/smuwth5ou7876/panel-18.png",
+        "shows/smuwth5ou7876/panel-19.png",
+        "shows/smuwth5ou7876/panel-20.png",
+        "shows/smuwth5ou7876/panel-21.png",
+        "shows/smuwth5ou7876/panel-22.png",
+        "shows/smuwth5ou7876/panel-23.png",
+        "shows/smuwth5ou7876/panel-24.png"
+      ],
+      "video": "shows/smuwth5ou7876/video.webm"
+    },
+    {
       "id": "smv0mbssu2124",
       "title": "Andy Ludwig, Jessica, Roger Upmyown — Living room (1)",
       "kind": "studio",
@@ -128,38 +161,6 @@
       ]
     },
     {
-      "id": "smuwth5ou7876",
-      "title": "Krillin, Black Widow, Carl — Living room (1)",
-      "kind": "studio",
-      "ts": 1791299507214,
-      "panels": [
-        "shows/smuwth5ou7876/panel-1.png",
-        "shows/smuwth5ou7876/panel-2.png",
-        "shows/smuwth5ou7876/panel-3.png",
-        "shows/smuwth5ou7876/panel-4.png",
-        "shows/smuwth5ou7876/panel-5.png",
-        "shows/smuwth5ou7876/panel-6.png",
-        "shows/smuwth5ou7876/panel-7.png",
-        "shows/smuwth5ou7876/panel-8.png",
-        "shows/smuwth5ou7876/panel-9.png",
-        "shows/smuwth5ou7876/panel-10.png",
-        "shows/smuwth5ou7876/panel-11.png",
-        "shows/smuwth5ou7876/panel-12.png",
-        "shows/smuwth5ou7876/panel-13.png",
-        "shows/smuwth5ou7876/panel-14.png",
-        "shows/smuwth5ou7876/panel-15.png",
-        "shows/smuwth5ou7876/panel-16.png",
-        "shows/smuwth5ou7876/panel-17.png",
-        "shows/smuwth5ou7876/panel-18.png",
-        "shows/smuwth5ou7876/panel-19.png",
-        "shows/smuwth5ou7876/panel-20.png",
-        "shows/smuwth5ou7876/panel-21.png",
-        "shows/smuwth5ou7876/panel-22.png",
-        "shows/smuwth5ou7876/panel-23.png",
-        "shows/smuwth5ou7876/panel-24.png"
-      ]
-    },
-    {
       "id": "smv27fwrv9876",
       "title": "Check, Please (Hold the Wallet)",
       "kind": "studio",
@@ -208,5 +209,5 @@
       ]
     }
   ],
-  "updated": 1791744541870
+  "updated": 1791745010665
 }
