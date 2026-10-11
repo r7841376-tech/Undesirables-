@@ -1,6 +1,25 @@
 {
   "episodes": [
     {
+      "id": "smv3bmqvm3395",
+      "title": "Financial Tornado",
+      "kind": "special",
+      "ts": 1791692798098,
+      "panels": [
+        "shows/smv3bmqvm3395/panel-1.png",
+        "shows/smv3bmqvm3395/panel-2.png",
+        "shows/smv3bmqvm3395/panel-3.png",
+        "shows/smv3bmqvm3395/panel-4.png",
+        "shows/smv3bmqvm3395/panel-5.png",
+        "shows/smv3bmqvm3395/panel-6.png",
+        "shows/smv3bmqvm3395/panel-7.png",
+        "shows/smv3bmqvm3395/panel-8.png",
+        "shows/smv3bmqvm3395/panel-9.png",
+        "shows/smv3bmqvm3395/panel-10.png"
+      ],
+      "video": "shows/smv3bmqvm3395/video.webm"
+    },
+    {
       "id": "smv3dwxil3952",
       "title": "Out of Order: Andy Ludwig Live",
       "kind": "special",
@@ -224,5 +243,5 @@
       ]
     }
   ],
-  "updated": 1791746532313
+  "updated": 1791746792919
 }
