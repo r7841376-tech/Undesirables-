@@ -1,6 +1,20 @@
 {
   "episodes": [
     {
+      "id": "smv09wa3w3806",
+      "title": "Andy Ludwig, Rachel, Jessica — Living room",
+      "kind": "studio",
+      "ts": 1791508485165,
+      "panels": [
+        "shows/smv09wa3w3806/panel-1.png",
+        "shows/smv09wa3w3806/panel-2.png",
+        "shows/smv09wa3w3806/panel-3.png",
+        "shows/smv09wa3w3806/panel-4.png",
+        "shows/smv09wa3w3806/panel-5.png",
+        "shows/smv09wa3w3806/panel-6.png"
+      ]
+    },
+    {
       "id": "smuwth5ou7876",
       "title": "Krillin, Black Widow, Carl — Living room (1)",
       "kind": "studio",
@@ -33,5 +47,5 @@
       ]
     }
   ],
-  "updated": 1791737021547
+  "updated": 1791737150998
 }
