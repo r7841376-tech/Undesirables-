@@ -25,7 +25,8 @@
         "shows/smv42k9s33369/panel-17.png",
         "shows/smv42k9s33369/panel-18.png",
         "shows/smv42k9s33369/panel-19.png"
-      ]
+      ],
+      "video": "shows/smv42k9s33369/video.webm"
     },
     {
       "id": "smv0ac1pk5340",
@@ -189,5 +190,5 @@
       ]
     }
   ],
-  "updated": 1791741929977
+  "updated": 1791743684536
 }
