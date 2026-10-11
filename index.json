@@ -1,6 +1,23 @@
 {
   "episodes": [
     {
+      "id": "smv240pl61988",
+      "title": "The Cage",
+      "kind": "studio",
+      "ts": 1791619546506,
+      "panels": [
+        "shows/smv240pl61988/panel-1.png",
+        "shows/smv240pl61988/panel-2.png",
+        "shows/smv240pl61988/panel-3.png",
+        "shows/smv240pl61988/panel-4.png",
+        "shows/smv240pl61988/panel-5.png",
+        "shows/smv240pl61988/panel-6.png",
+        "shows/smv240pl61988/panel-7.png",
+        "shows/smv240pl61988/panel-8.png",
+        "shows/smv240pl61988/panel-9.png"
+      ]
+    },
+    {
       "id": "smv16aagm4731",
       "title": "Mud Season",
       "kind": "studio",
@@ -116,5 +133,5 @@
       ]
     }
   ],
-  "updated": 1791737730384
+  "updated": 1791737839309
 }
