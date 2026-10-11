@@ -1,6 +1,25 @@
 {
   "episodes": [
     {
+      "id": "smv16aagm4731",
+      "title": "Mud Season",
+      "kind": "studio",
+      "ts": 1791562886518,
+      "panels": [
+        "shows/smv16aagm4731/panel-1.png",
+        "shows/smv16aagm4731/panel-2.png",
+        "shows/smv16aagm4731/panel-3.png",
+        "shows/smv16aagm4731/panel-4.png",
+        "shows/smv16aagm4731/panel-5.png",
+        "shows/smv16aagm4731/panel-6.png",
+        "shows/smv16aagm4731/panel-7.png",
+        "shows/smv16aagm4731/panel-8.png",
+        "shows/smv16aagm4731/panel-9.png",
+        "shows/smv16aagm4731/panel-10.png",
+        "shows/smv16aagm4731/panel-11.png"
+      ]
+    },
+    {
       "id": "smv0mbssu2124",
       "title": "Andy Ludwig, Jessica, Roger Upmyown — Living room (1)",
       "kind": "studio",
@@ -97,5 +116,5 @@
       ]
     }
   ],
-  "updated": 1791737574334
+  "updated": 1791737730384
 }
