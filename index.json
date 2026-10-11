@@ -1,6 +1,26 @@
 {
   "episodes": [
     {
+      "id": "smv488b771239",
+      "title": "Swipe Right",
+      "kind": "studio",
+      "ts": 1791747551924,
+      "panels": [
+        "shows/smv488b771239/panel-1.png",
+        "shows/smv488b771239/panel-2.png",
+        "shows/smv488b771239/panel-3.png",
+        "shows/smv488b771239/panel-4.png",
+        "shows/smv488b771239/panel-5.png",
+        "shows/smv488b771239/panel-6.png",
+        "shows/smv488b771239/panel-7.png",
+        "shows/smv488b771239/panel-8.png",
+        "shows/smv488b771239/panel-9.png",
+        "shows/smv488b771239/panel-10.png",
+        "shows/smv488b771239/panel-11.png"
+      ],
+      "video": "shows/smv488b771239/video.webm"
+    },
+    {
       "id": "smv27wobh3309",
       "title": "Two Options",
       "kind": "studio",
@@ -261,5 +281,5 @@
       ]
     }
   ],
-  "updated": 1791747352102
+  "updated": 1791747683898
 }
