@@ -1,6 +1,24 @@
 {
   "episodes": [
     {
+      "id": "smv240pl61988",
+      "title": "The Cage",
+      "kind": "studio",
+      "ts": 1791619546506,
+      "panels": [
+        "shows/smv240pl61988/panel-1.png",
+        "shows/smv240pl61988/panel-2.png",
+        "shows/smv240pl61988/panel-3.png",
+        "shows/smv240pl61988/panel-4.png",
+        "shows/smv240pl61988/panel-5.png",
+        "shows/smv240pl61988/panel-6.png",
+        "shows/smv240pl61988/panel-7.png",
+        "shows/smv240pl61988/panel-8.png",
+        "shows/smv240pl61988/panel-9.png"
+      ],
+      "video": "shows/smv240pl61988/video.webm"
+    },
+    {
       "id": "smv16aagm4731",
       "title": "Mud Season",
       "kind": "studio",
@@ -139,23 +157,6 @@
       ]
     },
     {
-      "id": "smv240pl61988",
-      "title": "The Cage",
-      "kind": "studio",
-      "ts": 1791619546506,
-      "panels": [
-        "shows/smv240pl61988/panel-1.png",
-        "shows/smv240pl61988/panel-2.png",
-        "shows/smv240pl61988/panel-3.png",
-        "shows/smv240pl61988/panel-4.png",
-        "shows/smv240pl61988/panel-5.png",
-        "shows/smv240pl61988/panel-6.png",
-        "shows/smv240pl61988/panel-7.png",
-        "shows/smv240pl61988/panel-8.png",
-        "shows/smv240pl61988/panel-9.png"
-      ]
-    },
-    {
       "id": "smv0mbssu2124",
       "title": "Andy Ludwig, Jessica, Roger Upmyown — Living room (1)",
       "kind": "studio",
@@ -205,5 +206,5 @@
       ]
     }
   ],
-  "updated": 1791743926899
+  "updated": 1791744050208
 }
