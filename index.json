@@ -1,6 +1,22 @@
 {
   "episodes": [
     {
+      "id": "smv0agk2f7019",
+      "title": "Andy Ludwig, Rachel, Jessica… — Living room (1)",
+      "kind": "studio",
+      "ts": 1791509431191,
+      "panels": [
+        "shows/smv0agk2f7019/panel-1.png",
+        "shows/smv0agk2f7019/panel-2.png",
+        "shows/smv0agk2f7019/panel-3.png",
+        "shows/smv0agk2f7019/panel-4.png",
+        "shows/smv0agk2f7019/panel-5.png",
+        "shows/smv0agk2f7019/panel-6.png",
+        "shows/smv0agk2f7019/panel-7.png"
+      ],
+      "video": "shows/smv0agk2f7019/video.webm"
+    },
+    {
       "id": "smv240pl61988",
       "title": "The Cage",
       "kind": "studio",
@@ -92,21 +108,6 @@
         "shows/smv0ac1pk5340/panel-4.png",
         "shows/smv0ac1pk5340/panel-5.png",
         "shows/smv0ac1pk5340/panel-6.png"
-      ]
-    },
-    {
-      "id": "smv0agk2f7019",
-      "title": "Andy Ludwig, Rachel, Jessica… — Living room (1)",
-      "kind": "studio",
-      "ts": 1791509431191,
-      "panels": [
-        "shows/smv0agk2f7019/panel-1.png",
-        "shows/smv0agk2f7019/panel-2.png",
-        "shows/smv0agk2f7019/panel-3.png",
-        "shows/smv0agk2f7019/panel-4.png",
-        "shows/smv0agk2f7019/panel-5.png",
-        "shows/smv0agk2f7019/panel-6.png",
-        "shows/smv0agk2f7019/panel-7.png"
       ]
     },
     {
@@ -206,5 +207,5 @@
       ]
     }
   ],
-  "updated": 1791744050208
+  "updated": 1791744259130
 }
