@@ -1,6 +1,20 @@
 {
   "episodes": [
     {
+      "id": "smv3dwh958799",
+      "title": "Royal Rumble of the Receipts",
+      "kind": "studio",
+      "ts": 1791696611417,
+      "panels": [
+        "shows/smv3dwh958799/panel-1.png",
+        "shows/smv3dwh958799/panel-2.png",
+        "shows/smv3dwh958799/panel-3.png",
+        "shows/smv3dwh958799/panel-4.png",
+        "shows/smv3dwh958799/panel-5.png"
+      ],
+      "video": "shows/smv3dwh958799/video.webm"
+    },
+    {
       "id": "smv42k9s33369",
       "title": "Break Room Costume Party",
       "kind": "studio",
@@ -190,5 +204,5 @@
       ]
     }
   ],
-  "updated": 1791743684536
+  "updated": 1791743770216
 }
