@@ -1,6 +1,36 @@
 {
   "episodes": [
     {
+      "id": "smv4shef19600",
+      "title": "Good, Good, Great Day",
+      "kind": "studio",
+      "ts": 1791781568317,
+      "panels": [
+        "shows/smv4shef19600/panel-1.png",
+        "shows/smv4shef19600/panel-2.png",
+        "shows/smv4shef19600/panel-3.png",
+        "shows/smv4shef19600/panel-4.png",
+        "shows/smv4shef19600/panel-5.png",
+        "shows/smv4shef19600/panel-6.png",
+        "shows/smv4shef19600/panel-7.png",
+        "shows/smv4shef19600/panel-8.png",
+        "shows/smv4shef19600/panel-9.png",
+        "shows/smv4shef19600/panel-10.png",
+        "shows/smv4shef19600/panel-11.png",
+        "shows/smv4shef19600/panel-12.png",
+        "shows/smv4shef19600/panel-13.png",
+        "shows/smv4shef19600/panel-14.png",
+        "shows/smv4shef19600/panel-15.png",
+        "shows/smv4shef19600/panel-16.png",
+        "shows/smv4shef19600/panel-17.png",
+        "shows/smv4shef19600/panel-18.png",
+        "shows/smv4shef19600/panel-19.png",
+        "shows/smv4shef19600/panel-20.png",
+        "shows/smv4shef19600/panel-21.png"
+      ],
+      "video": "shows/smv4shef19600/video.webm"
+    },
+    {
       "id": "smuyra22w372",
       "title": "Gamora, Shuri, Black Panther… — Living room (1)",
       "kind": "studio",
@@ -310,5 +340,5 @@
       ]
     }
   ],
-  "updated": 1791748319839
+  "updated": 1791781836916
 }
