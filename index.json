@@ -1,6 +1,34 @@
 {
   "episodes": [
     {
+      "id": "smv5faurf3667",
+      "title": "Sunday Scaries, Monday Cages",
+      "kind": "studio",
+      "ts": 1791819894077,
+      "panels": [
+        "shows/smv5faurf3667/panel-1.png",
+        "shows/smv5faurf3667/panel-2.png",
+        "shows/smv5faurf3667/panel-3.png",
+        "shows/smv5faurf3667/panel-4.png",
+        "shows/smv5faurf3667/panel-5.png",
+        "shows/smv5faurf3667/panel-6.png",
+        "shows/smv5faurf3667/panel-7.png",
+        "shows/smv5faurf3667/panel-8.png",
+        "shows/smv5faurf3667/panel-9.png",
+        "shows/smv5faurf3667/panel-10.png",
+        "shows/smv5faurf3667/panel-11.png",
+        "shows/smv5faurf3667/panel-12.png",
+        "shows/smv5faurf3667/panel-13.png",
+        "shows/smv5faurf3667/panel-14.png",
+        "shows/smv5faurf3667/panel-15.png",
+        "shows/smv5faurf3667/panel-16.png",
+        "shows/smv5faurf3667/panel-17.png",
+        "shows/smv5faurf3667/panel-18.png",
+        "shows/smv5faurf3667/panel-19.png"
+      ],
+      "video": "shows/smv5faurf3667/video.webm"
+    },
+    {
       "id": "smv53vag51944",
       "title": "Recession Proof",
       "kind": "special",
@@ -471,5 +499,5 @@
       ]
     }
   ],
-  "updated": 1791800919137
+  "updated": 1791820873989
 }
