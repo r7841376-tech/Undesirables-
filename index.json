@@ -1,6 +1,29 @@
 {
   "episodes": [
     {
+      "id": "smv4takjd8607",
+      "title": "Octopus Season",
+      "kind": "studio",
+      "ts": 1791782929273,
+      "panels": [
+        "shows/smv4takjd8607/panel-1.png",
+        "shows/smv4takjd8607/panel-2.png",
+        "shows/smv4takjd8607/panel-3.png",
+        "shows/smv4takjd8607/panel-4.png",
+        "shows/smv4takjd8607/panel-5.png",
+        "shows/smv4takjd8607/panel-6.png",
+        "shows/smv4takjd8607/panel-7.png",
+        "shows/smv4takjd8607/panel-8.png",
+        "shows/smv4takjd8607/panel-9.png",
+        "shows/smv4takjd8607/panel-10.png",
+        "shows/smv4takjd8607/panel-11.png",
+        "shows/smv4takjd8607/panel-12.png",
+        "shows/smv4takjd8607/panel-13.png",
+        "shows/smv4takjd8607/panel-14.png"
+      ],
+      "video": "shows/smv4takjd8607/video.webm"
+    },
+    {
       "id": "smv4shef19600",
       "title": "Good, Good, Great Day",
       "kind": "studio",
@@ -340,5 +363,5 @@
       ]
     }
   ],
-  "updated": 1791781836916
+  "updated": 1791783137850
 }
