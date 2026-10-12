@@ -1,6 +1,26 @@
 {
   "episodes": [
     {
+      "id": "smv4txyl61640",
+      "title": "Better Quality of Life",
+      "kind": "studio",
+      "ts": 1791784020570,
+      "panels": [
+        "shows/smv4txyl61640/panel-1.png",
+        "shows/smv4txyl61640/panel-2.png",
+        "shows/smv4txyl61640/panel-3.png",
+        "shows/smv4txyl61640/panel-4.png",
+        "shows/smv4txyl61640/panel-5.png",
+        "shows/smv4txyl61640/panel-6.png",
+        "shows/smv4txyl61640/panel-7.png",
+        "shows/smv4txyl61640/panel-8.png",
+        "shows/smv4txyl61640/panel-9.png",
+        "shows/smv4txyl61640/panel-10.png",
+        "shows/smv4txyl61640/panel-11.png"
+      ],
+      "video": "shows/smv4txyl61640/video.webm"
+    },
+    {
       "id": "smv4takjd8607",
       "title": "Octopus Season",
       "kind": "studio",
@@ -363,5 +383,5 @@
       ]
     }
   ],
-  "updated": 1791783137850
+  "updated": 1791784191741
 }
