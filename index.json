@@ -1,6 +1,25 @@
 {
   "episodes": [
     {
+      "id": "smv5i6v6s995",
+      "title": "Session Interrupted",
+      "kind": "studio",
+      "ts": 1791824746852,
+      "panels": [
+        "shows/smv5i6v6s995/panel-1.png",
+        "shows/smv5i6v6s995/panel-2.png",
+        "shows/smv5i6v6s995/panel-3.png",
+        "shows/smv5i6v6s995/panel-4.png",
+        "shows/smv5i6v6s995/panel-5.png",
+        "shows/smv5i6v6s995/panel-6.png",
+        "shows/smv5i6v6s995/panel-7.png",
+        "shows/smv5i6v6s995/panel-8.png",
+        "shows/smv5i6v6s995/panel-9.png",
+        "shows/smv5i6v6s995/panel-10.png"
+      ],
+      "video": "shows/smv5i6v6s995/video.webm"
+    },
+    {
       "id": "smv5hw9yg9112",
       "title": "Pressure at Work",
       "kind": "studio",
@@ -538,5 +557,5 @@
       ]
     }
   ],
-  "updated": 1791824452276
+  "updated": 1791824941467
 }
