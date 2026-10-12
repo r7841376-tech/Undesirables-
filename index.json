@@ -1,6 +1,23 @@
 {
   "episodes": [
     {
+      "id": "smv531rp33322",
+      "title": "Andy Ludwig: Three Days Awake",
+      "kind": "special",
+      "ts": 1791799314807,
+      "panels": [
+        "shows/smv531rp33322/panel-1.png",
+        "shows/smv531rp33322/panel-2.png",
+        "shows/smv531rp33322/panel-3.png",
+        "shows/smv531rp33322/panel-4.png",
+        "shows/smv531rp33322/panel-5.png",
+        "shows/smv531rp33322/panel-6.png",
+        "shows/smv531rp33322/panel-7.png",
+        "shows/smv531rp33322/panel-8.png"
+      ],
+      "video": "shows/smv531rp33322/video.webm"
+    },
+    {
       "id": "smv50udoi2316",
       "title": "Andy Ludwig: Calm Down, It's Just the Truth",
       "kind": "special",
@@ -420,5 +437,5 @@
       ]
     }
   ],
-  "updated": 1791796211029
+  "updated": 1791799715699
 }
