@@ -1,6 +1,26 @@
 {
   "episodes": [
     {
+      "id": "smv4zndmw4091",
+      "title": "Andy Ludwig: Spiritual Crisis, Tuesday Edition",
+      "kind": "special",
+      "ts": 1791793604553,
+      "panels": [
+        "shows/smv4zndmw4091/panel-1.png",
+        "shows/smv4zndmw4091/panel-2.png",
+        "shows/smv4zndmw4091/panel-3.png",
+        "shows/smv4zndmw4091/panel-4.png",
+        "shows/smv4zndmw4091/panel-5.png",
+        "shows/smv4zndmw4091/panel-6.png",
+        "shows/smv4zndmw4091/panel-7.png",
+        "shows/smv4zndmw4091/panel-8.png",
+        "shows/smv4zndmw4091/panel-9.png",
+        "shows/smv4zndmw4091/panel-10.png",
+        "shows/smv4zndmw4091/panel-11.png"
+      ],
+      "video": "shows/smv4zndmw4091/video.webm"
+    },
+    {
       "id": "smv4txyl61640",
       "title": "Better Quality of Life",
       "kind": "studio",
@@ -383,5 +403,5 @@
       ]
     }
   ],
-  "updated": 1791784191741
+  "updated": 1791793841811
 }
