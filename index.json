@@ -1,6 +1,26 @@
 {
   "episodes": [
     {
+      "id": "smv5gjc9d1476",
+      "title": "Clock Out",
+      "kind": "studio",
+      "ts": 1791821969617,
+      "panels": [
+        "shows/smv5gjc9d1476/panel-1.png",
+        "shows/smv5gjc9d1476/panel-2.png",
+        "shows/smv5gjc9d1476/panel-3.png",
+        "shows/smv5gjc9d1476/panel-4.png",
+        "shows/smv5gjc9d1476/panel-5.png",
+        "shows/smv5gjc9d1476/panel-6.png",
+        "shows/smv5gjc9d1476/panel-7.png",
+        "shows/smv5gjc9d1476/panel-8.png",
+        "shows/smv5gjc9d1476/panel-9.png",
+        "shows/smv5gjc9d1476/panel-10.png",
+        "shows/smv5gjc9d1476/panel-11.png"
+      ],
+      "video": "shows/smv5gjc9d1476/video.webm"
+    },
+    {
       "id": "smv5faurf3667",
       "title": "Sunday Scaries, Monday Cages",
       "kind": "studio",
@@ -499,5 +519,5 @@
       ]
     }
   ],
-  "updated": 1791820873989
+  "updated": 1791822826211
 }
