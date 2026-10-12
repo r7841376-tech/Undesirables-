@@ -1,6 +1,23 @@
 {
   "episodes": [
     {
+      "id": "smv50udoi2316",
+      "title": "Andy Ludwig: Calm Down, It's Just the Truth",
+      "kind": "special",
+      "ts": 1791795610818,
+      "panels": [
+        "shows/smv50udoi2316/panel-1.png",
+        "shows/smv50udoi2316/panel-2.png",
+        "shows/smv50udoi2316/panel-3.png",
+        "shows/smv50udoi2316/panel-4.png",
+        "shows/smv50udoi2316/panel-5.png",
+        "shows/smv50udoi2316/panel-6.png",
+        "shows/smv50udoi2316/panel-7.png",
+        "shows/smv50udoi2316/panel-8.png"
+      ],
+      "video": "shows/smv50udoi2316/video.webm"
+    },
+    {
       "id": "smv4zndmw4091",
       "title": "Andy Ludwig: Spiritual Crisis, Tuesday Edition",
       "kind": "special",
@@ -403,5 +420,5 @@
       ]
     }
   ],
-  "updated": 1791793841811
+  "updated": 1791796211029
 }
