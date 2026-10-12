@@ -1,6 +1,23 @@
 {
   "episodes": [
     {
+      "id": "smv53vag51944",
+      "title": "Recession Proof",
+      "kind": "special",
+      "ts": 1791800692133,
+      "panels": [
+        "shows/smv53vag51944/panel-1.png",
+        "shows/smv53vag51944/panel-2.png",
+        "shows/smv53vag51944/panel-3.png",
+        "shows/smv53vag51944/panel-4.png",
+        "shows/smv53vag51944/panel-5.png",
+        "shows/smv53vag51944/panel-6.png",
+        "shows/smv53vag51944/panel-7.png",
+        "shows/smv53vag51944/panel-8.png"
+      ],
+      "video": "shows/smv53vag51944/video.webm"
+    },
+    {
       "id": "smv53p2081352",
       "title": "Recession Proof",
       "kind": "special",
@@ -454,5 +471,5 @@
       ]
     }
   ],
-  "updated": 1791800637837
+  "updated": 1791800919137
 }
