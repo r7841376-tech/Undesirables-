@@ -1,6 +1,23 @@
 {
   "episodes": [
     {
+      "id": "smv53p2081352",
+      "title": "Recession Proof",
+      "kind": "special",
+      "ts": 1791800401256,
+      "panels": [
+        "shows/smv53p2081352/panel-1.png",
+        "shows/smv53p2081352/panel-2.png",
+        "shows/smv53p2081352/panel-3.png",
+        "shows/smv53p2081352/panel-4.png",
+        "shows/smv53p2081352/panel-5.png",
+        "shows/smv53p2081352/panel-6.png",
+        "shows/smv53p2081352/panel-7.png",
+        "shows/smv53p2081352/panel-8.png"
+      ],
+      "video": "shows/smv53p2081352/video.webm"
+    },
+    {
       "id": "smv531rp33322",
       "title": "Andy Ludwig: Three Days Awake",
       "kind": "special",
@@ -437,5 +454,5 @@
       ]
     }
   ],
-  "updated": 1791799715699
+  "updated": 1791800637837
 }
