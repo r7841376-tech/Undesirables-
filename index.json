@@ -1,6 +1,22 @@
 {
   "episodes": [
     {
+      "id": "smv61dha34418",
+      "title": "Paycheck Disappearing Act",
+      "kind": "studio",
+      "ts": 1791856968123,
+      "panels": [
+        "shows/smv61dha34418/panel-1.png",
+        "shows/smv61dha34418/panel-2.png",
+        "shows/smv61dha34418/panel-3.png",
+        "shows/smv61dha34418/panel-4.png",
+        "shows/smv61dha34418/panel-5.png",
+        "shows/smv61dha34418/panel-6.png",
+        "shows/smv61dha34418/panel-7.png"
+      ],
+      "video": "shows/smv61dha34418/video.webm"
+    },
+    {
       "id": "smv5i6v6s995",
       "title": "Session Interrupted",
       "kind": "studio",
@@ -557,5 +573,5 @@
       ]
     }
   ],
-  "updated": 1791824941467
+  "updated": 1791880188671
 }
