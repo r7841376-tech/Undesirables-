@@ -1,6 +1,26 @@
 {
   "episodes": [
     {
+      "id": "smv87fnsy6470",
+      "title": "Insufficient Funds, Sufficient Contempt",
+      "kind": "studio",
+      "ts": 1791988079938,
+      "panels": [
+        "shows/smv87fnsy6470/panel-1.png",
+        "shows/smv87fnsy6470/panel-2.png",
+        "shows/smv87fnsy6470/panel-3.png",
+        "shows/smv87fnsy6470/panel-4.png",
+        "shows/smv87fnsy6470/panel-5.png",
+        "shows/smv87fnsy6470/panel-6.png",
+        "shows/smv87fnsy6470/panel-7.png",
+        "shows/smv87fnsy6470/panel-8.png",
+        "shows/smv87fnsy6470/panel-9.png",
+        "shows/smv87fnsy6470/panel-10.png",
+        "shows/smv87fnsy6470/panel-11.png"
+      ],
+      "video": "shows/smv87fnsy6470/video.webm"
+    },
+    {
       "id": "smv86do6u2198",
       "title": "Coffee With a Good Friend",
       "kind": "studio",
@@ -671,5 +691,5 @@
       ]
     }
   ],
-  "updated": 1791986821613
+  "updated": 1791988377992
 }
