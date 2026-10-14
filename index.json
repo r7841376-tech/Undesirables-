@@ -1,6 +1,35 @@
 {
   "episodes": [
     {
+      "id": "smv86do6u2198",
+      "title": "Coffee With a Good Friend",
+      "kind": "studio",
+      "ts": 1791986307510,
+      "panels": [
+        "shows/smv86do6u2198/panel-1.png",
+        "shows/smv86do6u2198/panel-2.png",
+        "shows/smv86do6u2198/panel-3.png",
+        "shows/smv86do6u2198/panel-4.png",
+        "shows/smv86do6u2198/panel-5.png",
+        "shows/smv86do6u2198/panel-6.png",
+        "shows/smv86do6u2198/panel-7.png",
+        "shows/smv86do6u2198/panel-8.png",
+        "shows/smv86do6u2198/panel-9.png",
+        "shows/smv86do6u2198/panel-10.png",
+        "shows/smv86do6u2198/panel-11.png",
+        "shows/smv86do6u2198/panel-12.png",
+        "shows/smv86do6u2198/panel-13.png",
+        "shows/smv86do6u2198/panel-14.png",
+        "shows/smv86do6u2198/panel-15.png",
+        "shows/smv86do6u2198/panel-16.png",
+        "shows/smv86do6u2198/panel-17.png",
+        "shows/smv86do6u2198/panel-18.png",
+        "shows/smv86do6u2198/panel-19.png",
+        "shows/smv86do6u2198/panel-20.png"
+      ],
+      "video": "shows/smv86do6u2198/video.webm"
+    },
+    {
       "id": "smv7lzoii689",
       "title": "Quills Up, Masks On",
       "kind": "studio",
@@ -642,5 +671,5 @@
       ]
     }
   ],
-  "updated": 1791983906125
+  "updated": 1791986821613
 }
