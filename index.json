@@ -1,6 +1,34 @@
 {
   "episodes": [
     {
+      "id": "smv84io2s1960",
+      "title": "Mandatory Fun",
+      "kind": "studio",
+      "ts": 1791983181412,
+      "panels": [
+        "shows/smv84io2s1960/panel-1.png",
+        "shows/smv84io2s1960/panel-2.png",
+        "shows/smv84io2s1960/panel-3.png",
+        "shows/smv84io2s1960/panel-4.png",
+        "shows/smv84io2s1960/panel-5.png",
+        "shows/smv84io2s1960/panel-6.png",
+        "shows/smv84io2s1960/panel-7.png",
+        "shows/smv84io2s1960/panel-8.png",
+        "shows/smv84io2s1960/panel-9.png",
+        "shows/smv84io2s1960/panel-10.png",
+        "shows/smv84io2s1960/panel-11.png",
+        "shows/smv84io2s1960/panel-12.png",
+        "shows/smv84io2s1960/panel-13.png",
+        "shows/smv84io2s1960/panel-14.png",
+        "shows/smv84io2s1960/panel-15.png",
+        "shows/smv84io2s1960/panel-16.png",
+        "shows/smv84io2s1960/panel-17.png",
+        "shows/smv84io2s1960/panel-18.png",
+        "shows/smv84io2s1960/panel-19.png"
+      ],
+      "video": "shows/smv84io2s1960/video.webm"
+    },
+    {
       "id": "smv7r4dxq1172",
       "title": "Past Due and Overworked",
       "kind": "studio",
@@ -592,5 +620,5 @@
       ]
     }
   ],
-  "updated": 1791972466754
+  "updated": 1791983784217
 }
