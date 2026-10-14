@@ -1,6 +1,28 @@
 {
   "episodes": [
     {
+      "id": "smv7lzoii689",
+      "title": "Quills Up, Masks On",
+      "kind": "studio",
+      "ts": 1791952062426,
+      "panels": [
+        "shows/smv7lzoii689/panel-1.png",
+        "shows/smv7lzoii689/panel-2.png",
+        "shows/smv7lzoii689/panel-3.png",
+        "shows/smv7lzoii689/panel-4.png",
+        "shows/smv7lzoii689/panel-5.png",
+        "shows/smv7lzoii689/panel-6.png",
+        "shows/smv7lzoii689/panel-7.png",
+        "shows/smv7lzoii689/panel-8.png",
+        "shows/smv7lzoii689/panel-9.png",
+        "shows/smv7lzoii689/panel-10.png",
+        "shows/smv7lzoii689/panel-11.png",
+        "shows/smv7lzoii689/panel-12.png",
+        "shows/smv7lzoii689/panel-13.png"
+      ],
+      "video": "shows/smv7lzoii689/video.webm"
+    },
+    {
       "id": "smv84io2s1960",
       "title": "Mandatory Fun",
       "kind": "studio",
@@ -620,5 +642,5 @@
       ]
     }
   ],
-  "updated": 1791983784217
+  "updated": 1791983906125
 }
