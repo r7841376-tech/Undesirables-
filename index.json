@@ -1,6 +1,30 @@
 {
   "episodes": [
     {
+      "id": "smv96t8w07502",
+      "title": "Hold It In",
+      "kind": "studio",
+      "ts": 1792047500352,
+      "panels": [
+        "shows/smv96t8w07502/panel-1.png",
+        "shows/smv96t8w07502/panel-2.png",
+        "shows/smv96t8w07502/panel-3.png",
+        "shows/smv96t8w07502/panel-4.png",
+        "shows/smv96t8w07502/panel-5.png",
+        "shows/smv96t8w07502/panel-6.png",
+        "shows/smv96t8w07502/panel-7.png",
+        "shows/smv96t8w07502/panel-8.png",
+        "shows/smv96t8w07502/panel-9.png",
+        "shows/smv96t8w07502/panel-10.png",
+        "shows/smv96t8w07502/panel-11.png",
+        "shows/smv96t8w07502/panel-12.png",
+        "shows/smv96t8w07502/panel-13.png",
+        "shows/smv96t8w07502/panel-14.png",
+        "shows/smv96t8w07502/panel-15.png"
+      ],
+      "video": "shows/smv96t8w07502/video.webm"
+    },
+    {
       "id": "smv87fnsy6470",
       "title": "Insufficient Funds, Sufficient Contempt",
       "kind": "studio",
@@ -691,5 +715,5 @@
       ]
     }
   ],
-  "updated": 1791988377992
+  "updated": 1792048138052
 }
