@@ -1,6 +1,34 @@
 {
   "episodes": [
     {
+      "id": "smv9iucyz5331",
+      "title": "Eighteen Feet of Utah",
+      "kind": "studio",
+      "ts": 1792067707691,
+      "panels": [
+        "shows/smv9iucyz5331/panel-1.png",
+        "shows/smv9iucyz5331/panel-2.png",
+        "shows/smv9iucyz5331/panel-3.png",
+        "shows/smv9iucyz5331/panel-4.png",
+        "shows/smv9iucyz5331/panel-5.png",
+        "shows/smv9iucyz5331/panel-6.png",
+        "shows/smv9iucyz5331/panel-7.png",
+        "shows/smv9iucyz5331/panel-8.png",
+        "shows/smv9iucyz5331/panel-9.png",
+        "shows/smv9iucyz5331/panel-10.png",
+        "shows/smv9iucyz5331/panel-11.png",
+        "shows/smv9iucyz5331/panel-12.png",
+        "shows/smv9iucyz5331/panel-13.png",
+        "shows/smv9iucyz5331/panel-14.png",
+        "shows/smv9iucyz5331/panel-15.png",
+        "shows/smv9iucyz5331/panel-16.png",
+        "shows/smv9iucyz5331/panel-17.png",
+        "shows/smv9iucyz5331/panel-18.png",
+        "shows/smv9iucyz5331/panel-19.png"
+      ],
+      "video": "shows/smv9iucyz5331/video.webm"
+    },
+    {
       "id": "smv916fer1183",
       "title": "Sgt. Needy's Day Off",
       "kind": "studio",
@@ -740,5 +768,5 @@
       ]
     }
   ],
-  "updated": 1792048466421
+  "updated": 1792068196158
 }
