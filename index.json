@@ -1,6 +1,31 @@
 {
   "episodes": [
     {
+      "id": "smv916fer1183",
+      "title": "Sgt. Needy's Day Off",
+      "kind": "studio",
+      "ts": 1792038037635,
+      "panels": [
+        "shows/smv916fer1183/panel-1.png",
+        "shows/smv916fer1183/panel-2.png",
+        "shows/smv916fer1183/panel-3.png",
+        "shows/smv916fer1183/panel-4.png",
+        "shows/smv916fer1183/panel-5.png",
+        "shows/smv916fer1183/panel-6.png",
+        "shows/smv916fer1183/panel-7.png",
+        "shows/smv916fer1183/panel-8.png",
+        "shows/smv916fer1183/panel-9.png",
+        "shows/smv916fer1183/panel-10.png",
+        "shows/smv916fer1183/panel-11.png",
+        "shows/smv916fer1183/panel-12.png",
+        "shows/smv916fer1183/panel-13.png",
+        "shows/smv916fer1183/panel-14.png",
+        "shows/smv916fer1183/panel-15.png",
+        "shows/smv916fer1183/panel-16.png"
+      ],
+      "video": "shows/smv916fer1183/video.webm"
+    },
+    {
       "id": "smv96t8w07502",
       "title": "Hold It In",
       "kind": "studio",
@@ -715,5 +740,5 @@
       ]
     }
   ],
-  "updated": 1792048138052
+  "updated": 1792048466421
 }
